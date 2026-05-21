@@ -1,0 +1,5 @@
+interface:
+  display_name: "YOLO Auto Train"
+  short_description: "Train YOLO detectors from videos"
+  brand_color: "#2563EB"
+  default_prompt: "Use $yolo-auto-train to train a single-class YOLO detector from videos of my target object."
