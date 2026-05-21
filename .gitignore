@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local training data and model artifacts
+runs/
+videos/
+frames/
+dataset/
+train/
+reports/
+prompt_frames/
+*.pt
+*.onnx
+*.engine
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.m4v
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
